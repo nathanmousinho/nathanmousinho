@@ -1,13 +1,14 @@
 Hi, I’m Nathan Elias.
 
+![](https://github-readme-stats.vercel.app/api?username=nathanmousinho&count_private=true&show_icons=true&theme=graywhite&include_all_commits)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmousinho&langs_count=10&layout=compact&theme=graywhite)
 <div>
-<a href="https://github.com/nathanmousinho">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanmousinho&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/ >
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmousinho&layout=compact&langs_count=16/ >
-
+  <img align="center" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  
 </div>
-
-
 <!---
 nathanmousinho/nathanmousinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
