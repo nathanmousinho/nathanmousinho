@@ -2,7 +2,7 @@ Hi, I’m Nathan Elias.
 
 ![](https://github-readme-stats.vercel.app/api?username=nathanmousinho&count_private=true&show_icons=true&theme=graywhite&include_all_commits)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmousinho&langs_count=10&layout=compact&theme=graywhite)
-<div>
+<div style="display: inline_block">
   <img align="center" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
